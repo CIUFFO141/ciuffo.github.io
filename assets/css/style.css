@@ -3,6 +3,9 @@
     margin: 0px;
     box-sizing: border-box;
 }
+html{
+    overflow-x: hidden;
+}
 body{
     font-family: monospace;
     font-size: 20px;
